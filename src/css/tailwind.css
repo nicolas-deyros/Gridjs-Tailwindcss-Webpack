@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import './base.css';
+
+@import '/node_modules/gridjs/dist/theme/mermaid.css';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
