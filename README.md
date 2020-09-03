@@ -15,15 +15,17 @@ This is a simple but robust example, using multiple libraries, of how you can de
 
 For developmnet deployment:
 
-\$npm run dev
+`$ npm run dev`
 
 > This will start Webpack-dev-server automatically
 
 For production deployment:
 
-\$npm run prod
+`$npm run prod`
 
 > This will optimize your code for production
+
+![](docs/chrome-lighthouse.png)
 
 ####License
 
