@@ -1,7 +1,7 @@
 {
   "name": "grid-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Grid.JS & TailwindCSS & Webpack dynamic table",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.config.js  --env.env=dev",
