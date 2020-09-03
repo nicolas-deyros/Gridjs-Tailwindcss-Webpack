@@ -1,17 +1,17 @@
-#Grid.js & Tailwind CSS & Webpack Dynamic Table
+# Grid.js & Tailwind CSS & Webpack Dynamic Table
 
 This is a simple but robust example, using multiple libraries, of how you can develop a dynamic table from a JSON file.
 
 ![](docs/Desktop-Grid-JS-Dynamic-User-Data-Table.png)
 
-####Libraries
+#### Libraries
 
 - [Grid.js](https://gridjs.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Webpack](https://webpack.js.org/)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
-####Getting started
+#### Getting started
 
 For developmnet deployment:
 
@@ -27,6 +27,6 @@ For production deployment:
 
 ![](docs/chrome-lighthouse.png)
 
-####License
+#### License
 
 MIT
